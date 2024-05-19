@@ -28,9 +28,9 @@ const allProjects = [
       /\.(png|jpe?g|svg)$/
     ),
     description: "Police map - API project",
-    technologies: "React, HTML, CSS, REST API",
-    githubLink: "https://github.com/andsemenov/Police-map",
-    liveSiteLink: "https://police-api-map.herokuapp.com/",
+    technologies: "React, HTML, CSS, API",
+    githubLink: "https://github.com/andsemenov/street-crimes-map",
+    liveSiteLink: "https://street-crimes-map.vercel.app",
   },
   {
     contextOfImages: require.context(
